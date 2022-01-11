@@ -28,6 +28,7 @@ public class AmazonLoginTest extends BaseClass1 {
 		else {
 			System.out.println("Amazon Login Test Fail");
 			System.out.println("Amazone page not navigate ");
+			System.out.println("Amazon Login Test Fail..3");
 		}
 	}
 
